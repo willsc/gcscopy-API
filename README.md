@@ -10,6 +10,5 @@ INFO:     Application startup complete.
 
 ```
 
-
-![image](https://user-images.githubusercontent.com/5571330/121816420-6a338a00-cc73-11eb-8dab-a49ca6e4ae4c.png)
+![image](https://user-images.githubusercontent.com/5571330/121816689-f2fef580-cc74-11eb-9822-b8bc92af0a58.png)
 
