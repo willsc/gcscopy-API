@@ -9,4 +9,5 @@ INFO:     Waiting for application startup.
 INFO:     Application startup complete.
 
 ```
-![image](https://user-images.githubusercontent.com/5571330/121816273-8e429b80-cc72-11eb-81ea-b4247be1eb9e.png)
+![image](https://user-images.githubusercontent.com/5571330/121816378-23459480-cc73-11eb-9535-83e0b4462f1f.png)
+
